@@ -6,4 +6,6 @@
 ## reeds_shepp_planner.py  
 * tries to find paths with different types of method (CSC, CCC, SCS). Generate curves and straight line, then generate (x,y,theta) that interpolates paths.  
 * returns path with minimum length  
-
+  
+![low_goal_sample_rate](https://user-images.githubusercontent.com/49792776/83969347-7b341780-a90a-11ea-8b53-89d1d60f722a.PNG)  
+![high_goal_sample_rate](https://user-images.githubusercontent.com/49792776/83969350-7bccae00-a90a-11ea-94c0-12d9979747db.PNG)  
